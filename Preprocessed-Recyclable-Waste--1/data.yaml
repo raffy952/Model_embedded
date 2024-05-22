@@ -1,0 +1,11 @@
+train: /home/chiavetta/Scrivania/training_embedded/Preprocessed-Recyclable-Waste--1/train
+val: /home/chiavetta/Scrivania/training_embedded/Preprocessed-Recyclable-Waste--1/valid
+test: /home/chiavetta/Scrivania/training_embedded/Preprocessed-Recyclable-Waste--1/test
+nc: 6
+names:
+- cardboard
+- glass
+- metal
+- paper
+- plastic
+- trash

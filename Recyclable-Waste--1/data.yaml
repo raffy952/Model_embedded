@@ -1,0 +1,16 @@
+names:
+- Cardboard
+- Glass
+- Metal
+- Paper
+- Plastic
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: recyclable-waste
+  url: https://universe.roboflow.com/thesis-ifxof/recyclable-waste/dataset/1
+  version: 1
+  workspace: thesis-ifxof
+test: ../test/images
+train: Recyclable-Waste--1/train/images
+val: Recyclable-Waste--1/valid/images
